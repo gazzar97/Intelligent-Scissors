@@ -4,9 +4,6 @@ It is a windows application takes an image, and you can select a specific object
 
 Here You can See the Output of the program:
 
-![test1](https://user-images.githubusercontent.com/21978199/52182597-50fab300-2807-11e9-8c3d-5426259956b2.PNG)
-
-![test2](https://user-images.githubusercontent.com/21978199/52182608-74256280-2807-11e9-985e-b85d1585d851.PNG)
 
 ![test 3](https://user-images.githubusercontent.com/21978199/52182624-a5059780-2807-11e9-8305-cb192032cd4b.PNG)
 
